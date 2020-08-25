@@ -1,0 +1,1 @@
+esse diretório deve ser alocado dois níveis fora do diretório público da aplicação
